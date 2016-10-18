@@ -1,0 +1,68 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows
+-------------------------------------------------------------------------------
+
+  Начало: Sat Sep 03 10:44:00 2016
+
+    Источник : C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\WebApplication1\Config\
+  Назначение : C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\WebApplication1\App_Data\NuGetBackup\20160903-104400\Config\
+
+     Файлы: *.*
+	    
+ Параметры: *.* /S /E /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                  18	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\WebApplication1\Config\
+	    Новый файл 		     305	404handlers.config  0%  100%  
+	    Новый файл 		     681	applications.config  0%  100%  
+	    Новый файл 		     739	BaseRestExtensions.config  0%  100%  
+	    Новый файл 		    3981	ClientDependency.config  0%  100%  
+	    Новый файл 		    2959	Dashboard.config  0%  100%  
+	    Новый файл 		    7088	EmbeddedMedia.config  0%  100%  
+	    Новый файл 		    1303	ExamineIndex.config  0%  100%  
+	    Новый файл 		    1834	ExamineSettings.config  0%  100%  
+	    Новый файл 		     429	feedProxy.config  0%  100%  
+	    Новый файл 		     286	FileSystemProviders.config  0%  100%  
+	    Новый файл 		    1025	grid.editors.config.js  0%  100%  
+	    Новый файл 		    1114	log4net.config  0%  100%  
+	    Новый файл 		      72	metablogConfig.config  0%  100%  
+	    Новый файл 		     837	scripting.config  0%  100%  
+	    Новый файл 		   12446	tinyMceConfig.config  0%  100%  
+	    Новый файл 		    5782	trees.config  0%  100%  
+	    Новый файл 		    8778	umbracoSettings.config  0%  100%  
+	    Новый файл 		    1337	UrlRewriting.config  0%  100%  
+	  Новая папка         18	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\WebApplication1\Config\Lang\
+	    Новый файл 		      81	cs-CZ.user.xml  0%  100%  
+	    Новый файл 		      79	da-DK.user.xml  0%  100%  
+	    Новый файл 		      79	de-DE.user.xml  0%  100%  
+	    Новый файл 		      79	en-GB.user.xml  0%  100%  
+	    Новый файл 		      79	en-US.user.xml  0%  100%  
+	    Новый файл 		      79	es-ES.user.xml  0%  100%  
+	    Новый файл 		      79	fr-FR.user.xml  0%  100%  
+	    Новый файл 		      82	he-IL.user.xml  0%  100%  
+	    Новый файл 		      82	it-IT.user.xml  0%  100%  
+	    Новый файл 		      79	ja-JP.user.xml  0%  100%  
+	    Новый файл 		      82	ko-KR.user.xml  0%  100%  
+	    Новый файл 		      82	nb-NO.user.xml  0%  100%  
+	    Новый файл 		      79	nl-NL.user.xml  0%  100%  
+	    Новый файл 		      82	pl-PL.user.xml  0%  100%  
+	    Новый файл 		      82	pt-BR.user.xml  0%  100%  
+	    Новый файл 		      79	ru-RU.user.xml  0%  100%  
+	    Новый файл 		      82	sv-SE.user.xml  0%  100%  
+	    Новый файл 		      78	zh-CN.user.xml  0%  100%  
+
+------------------------------------------------------------------------------
+
+               ВсегоСкопировано ПропущеноНесоответствие      СБОЙДополнения
+Каталогов :         2         1         1         0         0         0
+  Файлов :        36        36         0         0         0         0
+    Байт :    51.2 k    51.2 k         0         0         0         0
+   Время :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+Скорость :             1808275 Байт/сек.
+Скорость :             103.470 МБ/мин.
+
+Окончание : Sat Sep 03 10:44:00 2016

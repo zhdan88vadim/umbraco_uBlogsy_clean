@@ -1,0 +1,76 @@
+﻿ 2016-09-07 22:27:12,862 [P5532/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco 7.5.2 application starting on ADMIN-ПК
+ 2016-09-07 22:27:12,883 [P5532/D2/T1] INFO  Umbraco.Core.PluginManager - Determining hash of code files on disk
+ 2016-09-07 22:27:12,892 [P5532/D2/T1] INFO  Umbraco.Core.PluginManager - Hash determined (took 8ms)
+ 2016-09-07 22:27:12,946 [P5532/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+ 2016-09-07 22:27:13,212 [P5532/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 0 (took 265ms)
+ 2016-09-07 22:27:13,226 [P5532/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+ 2016-09-07 22:27:13,235 [P5532/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 9ms)
+ 2016-09-07 22:27:13,235 [P5532/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+ 2016-09-07 22:27:13,240 [P5532/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 0 (took 4ms)
+ 2016-09-07 22:27:13,257 [P5532/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+ 2016-09-07 22:27:13,260 [P5532/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 3ms)
+ 2016-09-07 22:27:13,261 [P5532/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+ 2016-09-07 22:27:13,265 [P5532/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 0 (took 4ms)
+ 2016-09-07 22:27:13,297 [P5532/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+ 2016-09-07 22:27:13,301 [P5532/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 0 (took 3ms)
+ 2016-09-07 22:27:13,302 [P5532/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+ 2016-09-07 22:27:13,305 [P5532/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 0 (took 3ms)
+ 2016-09-07 22:27:14,133 [P5532/D2/T1] INFO  Umbraco.Core.DatabaseContext - CanConnect = True
+ 2016-09-07 22:27:14,322 [P5532/D2/T1] INFO  Umbraco.Core.DatabaseContext - CanConnect = True
+ 2016-09-07 22:27:14,325 [P5532/D2/T1] INFO  Umbraco.Core.DatabaseContext - CanConnect = True
+ 2016-09-07 22:27:14,346 [P5532/D2/T1] INFO  Umbraco.Web.Cache.CacheRefresherEventHandler - Initializing Umbraco internal event handlers for cache refreshing
+ 2016-09-07 22:27:14,416 [P5532/D2/T1] INFO  Umbraco.Web.Search.ExamineEvents - Initializing Examine and binding to business logic events
+ 2016-09-07 22:27:14,416 [P5532/D2/T1] INFO  Umbraco.Web.Search.ExamineEvents - Adding examine event handlers for index providers: 3
+ 2016-09-07 22:27:14,427 [P5532/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco application startup complete (took 1634ms)
+ 2016-09-07 22:27:14,555 [P5532/D2/T11] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - ApplicationUrl: http://localhost:1975/umbraco (UmbracoModule request)
+ 2016-09-07 22:27:29,802 [P5532/D2/T11] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+ 2016-09-07 22:27:29,814 [P5532/D2/T11] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 0 (took 11ms)
+ 2016-09-07 22:28:03,224 [P5532/D2/T14] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+ 2016-09-07 22:28:03,240 [P5532/D2/T14] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 0 (took 5ms)
+ 2016-09-07 22:28:03,495 [P5532/D2/T14] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username zhdan88vadim@gmail.com from IP address ::1
+ 2016-09-07 22:28:25,605 [P5532/D2/T14] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username zhdan88vadim@gmail.com from IP address ::1
+ 2016-09-07 22:28:29,706 [P5532/D2/T13] INFO  umbraco.BusinessLogic.Log - Log scrubbed.  Removed all items older than 2016-09-06 22:28:29
+ 2016-09-07 22:28:29,760 [P5532/D2/T12] INFO  umbraco.content - Load Xml from file...
+ 2016-09-07 22:28:29,762 [P5532/D2/T12] INFO  umbraco.content - Loaded Xml from file.
+ 2016-09-07 22:29:17,471 [P5532/D2/T7] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username sql from IP address ::1
+ 2016-09-07 22:29:28,700 [P5532/D2/T7] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username sql from IP address ::1
+ 2016-09-07 22:29:43,814 [P5532/D2/T10] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username admin from IP address ::1
+ 2016-09-07 22:29:46,812 [P5532/D2/T11] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username admin from IP address ::1
+ 2016-09-07 22:29:51,859 [P5532/D2/T11] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username admin from IP address ::1
+ 2016-09-07 22:30:01,429 [P5532/D2/T11] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username admin from IP address ::1
+ 2016-09-07 22:30:06,323 [P5532/D2/T11] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username admin from IP address ::1
+ 2016-09-07 22:30:54,346 [P5532/D2/T22] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username admin from IP address ::1
+ 2016-09-07 22:30:59,557 [P5532/D2/T33] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username admin from IP address ::1
+ 2016-09-07 22:31:03,796 [P5532/D2/T19] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username admin from IP address ::1
+ 2016-09-07 22:37:00,967 [P5532/D2/T54] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username sql from IP address ::1
+ 2016-09-07 22:37:17,101 [P5532/D2/T30] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username admin from IP address ::1
+ 2016-09-07 22:37:22,871 [P5532/D2/T54] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username admin from IP address ::1
+ 2016-09-07 22:38:25,997 [P5532/D2/T44] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username Admin from IP address ::1
+ 2016-09-07 22:38:33,455 [P5532/D2/T51] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username Admin from IP address ::1
+ 2016-09-07 22:38:49,720 [P5532/D2/T54] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username Admin from IP address ::1
+ 2016-09-07 22:38:51,394 [P5532/D2/T30] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username Admin from IP address ::1
+ 2016-09-07 22:38:52,505 [P5532/D2/T24] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username Admin from IP address ::1
+ 2016-09-07 22:38:53,043 [P5532/D2/T41] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username Admin from IP address ::1
+ 2016-09-07 22:38:53,268 [P5532/D2/T57] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username Admin from IP address ::1
+ 2016-09-07 22:38:53,474 [P5532/D2/T28] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username Admin from IP address ::1
+ 2016-09-07 22:38:53,673 [P5532/D2/T55] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username Admin from IP address ::1
+ 2016-09-07 22:38:53,880 [P5532/D2/T44] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username Admin from IP address ::1
+ 2016-09-07 22:41:39,912 [P5532/D2/T28] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username zhdan88vadim@gmail.com from IP address ::1
+ 2016-09-07 22:41:53,428 [P5532/D2/T56] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username zhdan88vadim@gmail.com from IP address ::1
+ 2016-09-07 22:43:00,811 [P5532/D2/T69] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt succeeded for username zhdan88vadim@gmail.com from IP address ::1
+ 2016-09-07 22:43:00,811 [P5532/D2/T69] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: User: zhdan88vadim@gmail.com logged in from IP address ::1
+ 2016-09-07 22:43:00,960 [P5532/D2/T28] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Trees.TreeController
+ 2016-09-07 22:43:00,966 [P5532/D2/T28] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Trees.TreeController, found 0 (took 6ms)
+ 2016-09-07 22:43:01,058 [P5532/D2/T66] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.IApplication
+ 2016-09-07 22:43:01,068 [P5532/D2/T66] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.IApplication, found 0 (took 10ms)
+ 2016-09-07 22:43:01,192 [P5532/D2/T41] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.ITree
+ 2016-09-07 22:43:01,198 [P5532/D2/T41] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.ITree, found 0 (took 6ms)
+ 2016-09-07 22:43:01,212 [P5532/D2/T41] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Trees.TreeController
+ 2016-09-07 22:43:01,213 [P5532/D2/T41] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Trees.TreeController, found 0 (took 0ms)
+ 2016-09-07 22:43:01,215 [P5532/D2/T41] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.ITree
+ 2016-09-07 22:43:01,227 [P5532/D2/T41] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.ITree, found 0 (took 11ms)
+ 2016-09-07 22:55:22,806 [P5532/D2/T70] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Trees.TreeController
+ 2016-09-07 22:55:22,807 [P5532/D2/T70] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Trees.TreeController, found 0 (took 0ms)
+ 2016-09-07 23:25:36,098 [P5532/D2/T39] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.ICacheRefresher
+ 2016-09-07 23:25:36,111 [P5532/D2/T39] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 0 (took 13ms)
+ 2016-09-07 23:44:05,555 [P5532/D2/T31] INFO  Umbraco.Core.Logging.OwinLogger - Event Id: 0, state: User logged will be logged out due to timeout: zhdan88vadim@gmail.com, IP Address: ::1

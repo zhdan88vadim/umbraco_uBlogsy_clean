@@ -1,0 +1,1233 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows
+-------------------------------------------------------------------------------
+
+  Начало: Sat Sep 03 10:44:02 2016
+
+    Источник : C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\
+  Назначение : C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\WebApplication1\Umbraco_Client\
+
+     Файлы: *.*
+	    
+ Параметры: *.* /S /E /COPY:DAT /IS /IT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   0	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\
+	  Новая папка          7	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Application\
+	    Новый файл 		   13503	Extensions.js  0%  100%  
+	    Новый файл 		    2417	HistoryManager.js  0%  100%  
+	    Новый файл 		     839	NamespaceManager.js  0%  100%  
+	    Новый файл 		   21956	UmbracoApplicationActions.js  0%  100%  
+	    Новый файл 		   12833	UmbracoClientManager.js  0%  100%  
+	    Новый файл 		     374	UmbracoUtils.js  0%  100%  
+	    Новый файл 		    2060	UrlEncoder.js  0%  100%  
+	  Новая папка         12	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Application\JQuery\
+	    Новый файл 		   30336	jquery.autocomplete.js  0%  100%  
+	    Новый файл 		    5941	jquery.ba-bbq.min.js  0%  100%  
+	    Новый файл 		    4344	jquery.cookie.js  0%  100%  
+	    Новый файл 		    3178	jquery.hotkeys.js  0%  100%  
+	    Новый файл 		    6992	jquery.idle-timer.js  0%  100%  
+	    Новый файл 		    1304	jquery.metadata.min.js  0%  100%  
+	    Новый файл 		     165	jquery.noconflict-invoke.js  0%  100%  
+	    Новый файл 		    2749	jquery.unobtrusive-ajax.min.js  0%  100%  
+	    Новый файл 		   21496	jquery.validate.min.js  0%  100%  
+	    Новый файл 		    3745	jquery.validate.unobtrusive.min.js  0%  100%  
+	    Новый файл 		    2057	jquery-fieldselection.js  0%  100%  
+	    Новый файл 		     255	VerticalAlign.js  0%  100%  
+	  Новая папка          3	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\CodeArea\
+	    Новый файл 		    6126	javascript.js  0%  100%  
+	    Новый файл 		     305	styles.css  0%  100%  
+	    Новый файл 		    6997	UmbracoEditor.js  0%  100%  
+	  Новая папка          0	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Colorpicker\
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Colorpicker\Css\
+	    Новый файл 		    3367	colorpicker.css  0%  100%  
+	  Новая папка         26	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Colorpicker\Images\
+	    Новый файл 		      49	blank.gif  0%  100%  
+	    Новый файл 		    1897	colorpicker_background.png  0%  100%  
+	    Новый файл 		     532	colorpicker_hex.png  0%  100%  
+	    Новый файл 		     970	colorpicker_hsb_b.png  0%  100%  
+	    Новый файл 		    1012	colorpicker_hsb_h.png  0%  100%  
+	    Новый файл 		    1171	colorpicker_hsb_s.png  0%  100%  
+	    Новый файл 		      86	colorpicker_indic.gif  0%  100%  
+	    Новый файл 		   10355	colorpicker_overlay.png  0%  100%  
+	    Новый файл 		     970	colorpicker_rgb_b.png  0%  100%  
+	    Новый файл 		    1069	colorpicker_rgb_g.png  0%  100%  
+	    Новый файл 		    1066	colorpicker_rgb_r.png  0%  100%  
+	    Новый файл 		      78	colorpicker_select.gif  0%  100%  
+	    Новый файл 		     984	colorpicker_submit.png  0%  100%  
+	    Новый файл 		    1916	custom_background.png  0%  100%  
+	    Новый файл 		     562	custom_hex.png  0%  100%  
+	    Новый файл 		    1097	custom_hsb_b.png  0%  100%  
+	    Новый файл 		     970	custom_hsb_h.png  0%  100%  
+	    Новый файл 		    1168	custom_hsb_s.png  0%  100%  
+	    Новый файл 		      86	custom_indic.gif  0%  100%  
+	    Новый файл 		    1008	custom_rgb_b.png  0%  100%  
+	    Новый файл 		    1069	custom_rgb_g.png  0%  100%  
+	    Новый файл 		    1018	custom_rgb_r.png  0%  100%  
+	    Новый файл 		     997	custom_submit.png  0%  100%  
+	    Новый файл 		     506	select.png  0%  100%  
+	    Новый файл 		     518	select2.png  0%  100%  
+	    Новый файл 		     315	slider.png  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Colorpicker\Js\
+	    Новый файл 		   17175	colorpicker.js  0%  100%  
+	  Новая папка          0	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\ContextMenu\
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\ContextMenu\Css\
+	    Новый файл 		    4026	jquery.contextMenu.css  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\ContextMenu\Js\
+	    Новый файл 		   62773	jquery.contextMenu.js  0%  100%  
+	  Новая папка          0	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Datepicker\
+	  Новая папка         10	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Datepicker\Aqua\
+	    Новый файл 		      89	active-bg.gif  0%  100%  
+	    Новый файл 		      85	dark-bg.gif  0%  100%  
+	    Новый файл 		      89	hover-bg.gif  0%  100%  
+	    Новый файл 		      49	menuarrow.gif  0%  100%  
+	    Новый файл 		     110	normal-bg.gif  0%  100%  
+	    Новый файл 		     110	rowhover-bg.gif  0%  100%  
+	    Новый файл 		     116	status-bg.gif  0%  100%  
+	    Новый файл 		    4941	theme.css  0%  100%  
+	    Новый файл 		     116	title-bg.gif  0%  100%  
+	    Новый файл 		    1122	today-bg.gif  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Datepicker\Images\
+	    Новый файл 		     674	calPickerIcon.png  0%  100%  
+	    Новый файл 		     633	calPickerIconHover.png  0%  100%  
+	  Новая папка          3	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\DateTimePicker\
+	    Новый файл 		   20315	datetimepicker.css  0%  100%  
+	    Новый файл 		   13311	timepicker.js  0%  100%  
+	    Новый файл 		    1939	umbDateTimePicker.js  0%  100%  
+	  Новая папка          3	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\DateTimePicker\Images\
+	    Новый файл 		    1110	calSprite.png  0%  100%  
+	    Новый файл 		    8673	ui-icons_666666_256x240.png  0%  100%  
+	    Новый файл 		    8641	ui-icons_999999_256x240.png  0%  100%  
+	  Новая папка         10	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Dialogs\
+	    Новый файл 		     362	AssignDomain2.css  0%  100%  
+	    Новый файл 		    5351	AssignDomain2.js  0%  100%  
+	    Новый файл 		     212	CreateDialog.css  0%  100%  
+	    Новый файл 		     316	EditMacro.css  0%  100%  
+	    Новый файл 		    7379	EditMacro.js  0%  100%  
+	    Новый файл 		     362	PublishDialog.css  0%  100%  
+	    Новый файл 		    3481	PublishDialog.js  0%  100%  
+	    Новый файл 		    1171	SortDialog.css  0%  100%  
+	    Новый файл 		    4674	SortDialog.js  0%  100%  
+	    Новый файл 		    6012	UmbracoField.js  0%  100%  
+	  Новая папка          9	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Editors\
+	    Новый файл 		     486	DirectoryBrowser.css  0%  100%  
+	    Новый файл 		     703	EditMacro.css  0%  100%  
+	    Новый файл 		    3039	EditMacroScripts.js  0%  100%  
+	    Новый файл 		    4183	EditScript.js  0%  100%  
+	    Новый файл 		    3796	EditStyleSheet.js  0%  100%  
+	    Новый файл 		    6259	EditTemplate.js  0%  100%  
+	    Новый файл 		   11260	EditView.js  0%  100%  
+	    Новый файл 		     161	EditXslt.css  0%  100%  
+	    Новый файл 		    3008	EditXslt.js  0%  100%  
+	  Новая папка          0	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\FileUploader\
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\FileUploader\Js\
+	    Новый файл 		   16856	jquery.fileUploader.js  0%  100%  
+	  Новая папка          0	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\FolderBrowser\
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\FolderBrowser\Css\
+	    Новый файл 		    5366	folderbrowser.css  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\FolderBrowser\Js\
+	    Новый файл 		   18677	folderbrowser.js  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\IconPicker\
+	    Новый файл 		      52	iconpicker.js  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Imagecropper\
+	    Новый файл 		     329	Jcrop.gif  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Images\
+	    Новый файл 		   10819	progressbar.gif  0%  100%  
+	  Новая папка          0	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Installer\
+	  Новая папка          5	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Installer\Css\
+	    Новый файл 		   23469	all.css  0%  100%  
+	    Новый файл 		    1314	form.css  0%  100%  
+	    Новый файл 		   20078	jquery-ui-1.8.6.custom.css  0%  100%  
+	    Новый файл 		    7958	lt7.css  0%  100%  
+	    Новый файл 		     967	reset.css  0%  100%  
+	  Новая папка         98	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Installer\Images\
+	    Новый файл 		  184850	bg-bhuiness.jpg  0%   70%  100%  
+	    Новый файл 		   19424	bg-bhuiness-cl.gif  0%  100%  
+	    Новый файл 		   46684	bg-bhuiness-cr.gif  0%  100%  
+	    Новый файл 		  187609	bg-blog.jpg  0%   69%  100%  
+	    Новый файл 		   18564	bg-blog-cl.gif  0%  100%  
+	    Новый файл 		   50756	bg-blog-cr.gif  0%  100%  
+	    Новый файл 		   11078	bg-blog-repeat.jpg  0%  100%  
+	    Новый файл 		     387	bg-drop-b.png  0%  100%  
+	    Новый файл 		      84	bg-drop-c.gif  0%  100%  
+	    Новый файл 		     391	bg-drop-t.png  0%  100%  
+	    Новый файл 		     158	bg-header.png  0%  100%  
+	    Новый файл 		    2452	bg-img.png  0%  100%  
+	    Новый файл 		    3915	bg-img-ie.png  0%  100%  
+	    Новый файл 		     621	bg-inp.png  0%  100%  
+	    Новый файл 		     866	bg-inp-big.png  0%  100%  
+	    Новый файл 		     616	bg-inp-error.png  0%  100%  
+	    Новый файл 		     283	bg-lightbox-b.png  0%  100%  
+	    Новый файл 		     296	bg-lightbox-t.png  0%  100%  
+	    Новый файл 		  178356	bg-normal.jpg  0%   73%  100%  
+	    Новый файл 		   18097	bg-normal-cl.gif  0%  100%  
+	    Новый файл 		   46703	bg-normal-cr.gif  0%  100%  
+	    Новый файл 		    9811	bg-normal-repeat.jpg  0%  100%  
+	    Новый файл 		     346	bg-paging.png  0%  100%  
+	    Новый файл 		     366	bg-paging-h.png  0%  100%  
+	    Новый файл 		  178356	bg-personal.jpg  0%   73%  100%  
+	    Новый файл 		   18097	bg-personal-cl.gif  0%  100%  
+	    Новый файл 		   46703	bg-personal-cr.gif  0%  100%  
+	    Новый файл 		    9811	bg-personal-repeat.jpg  0%  100%  
+	    Новый файл 		  216794	bg-simple.jpg  0%   60%  100%  
+	    Новый файл 		   17705	bg-simple-cl.gif  0%  100%  
+	    Новый файл 		   42137	bg-simple-cr.gif  0%  100%  
+	    Новый файл 		   12773	bg-simple-repeat.jpg  0%  100%  
+	    Новый файл 		    6059	btn-accept.png  0%  100%  
+	    Новый файл 		    2708	btn-back.png  0%  100%  
+	    Новый файл 		   22650	btn-blog.png  0%  100%  
+	    Новый файл 		   26481	btn-buisness.png  0%  100%  
+	    Новый файл 		   16942	btn-buisness-repeat.png  0%  100%  
+	    Новый файл 		    1682	btn-close.png  0%  100%  
+	    Новый файл 		    3113	btn-confirm.png  0%  100%  
+	    Новый файл 		    3500	btn-continue.png  0%  100%  
+	    Новый файл 		    4277	btn-create.png  0%  100%  
+	    Новый файл 		    2243	btn-create-hover.png  0%  100%  
+	    Новый файл 		    6109	btn-get.png  0%  100%  
+	    Новый файл 		    2789	btn-install.png  0%  100%  
+	    Новый файл 		    6446	btn-install-gal.png  0%  100%  
+	    Новый файл 		    1484	btn-install-hover.png  0%  100%  
+	    Новый файл 		     952	btn-next.png  0%  100%  
+	    Новый файл 		    1898	btn-no.png  0%  100%  
+	    Новый файл 		   25962	btn-no-thanks.png  0%  100%  
+	    Новый файл 		   30788	btn-personal.png  0%  100%  
+	    Новый файл 		     958	btn-prev.png  0%  100%  
+	    Новый файл 		    8978	btn-preview.png  0%  100%  
+	    Новый файл 		    7219	btn-preview-web.png  0%  100%  
+	    Новый файл 		    6976	btn-set.png  0%  100%  
+	    Новый файл 		   28477	btn-simple.png  0%  100%  
+	    Новый файл 		    2380	btn-yes.png  0%  100%  
+	    Новый файл 		     205	bul1.png  0%  100%  
+	    Новый файл 		      46	bul2.gif  0%  100%  
+	    Новый файл 		     240	bul3.png  0%  100%  
+	    Новый файл 		      74	bul4.gif  0%  100%  
+	    Новый файл 		     467	ico-invalidaing.png  0%  100%  
+	    Новый файл 		     437	ico-validaing.png  0%  100%  
+	    Новый файл 		    3189	img01.jpg  0%  100%  
+	    Новый файл 		    3533	img02.jpg  0%  100%  
+	    Новый файл 		    6205	img03.jpg  0%  100%  
+	    Новый файл 		    5029	img04.jpg  0%  100%  
+	    Новый файл 		    6113	img05.jpg  0%  100%  
+	    Новый файл 		    4408	img06.jpg  0%  100%  
+	    Новый файл 		    5924	img07.jpg  0%  100%  
+	    Новый файл 		    4535	img08.jpg  0%  100%  
+	    Новый файл 		   16018	img09.jpg  0%  100%  
+	    Новый файл 		    4173	img10.jpg  0%  100%  
+	    Новый файл 		    6618	img11.jpg  0%  100%  
+	    Новый файл 		    2113	loader.gif  0%  100%  
+	    Новый файл 		    1445	logo.gif  0%  100%  
+	    Новый файл 		      43	none.gif  0%  100%  
+	    Новый файл 		    1026	pbar.gif  0%  100%  
+	    Новый файл 		  304064	pbar-ani.gif  0%   43%   86%  100%  
+	    Новый файл 		     491	select-button.png  0%  100%  
+	    Новый файл 		     199	select-center.png  0%  100%  
+	    Новый файл 		     401	select-left.png  0%  100%  
+	    Новый файл 		     816	select-left-2.png  0%  100%  
+	    Новый файл 		     110	sep1.png  0%  100%  
+	    Новый файл 		     260	ui-bg_diagonals-thick_18_b81900_40x40.png  0%  100%  
+	    Новый файл 		     251	ui-bg_diagonals-thick_20_666666_40x40.png  0%  100%  
+	    Новый файл 		     178	ui-bg_flat_10_000000_40x100.png  0%  100%  
+	    Новый файл 		     104	ui-bg_glass_100_f6f6f6_1x400.png  0%  100%  
+	    Новый файл 		     125	ui-bg_glass_100_fdf5ce_1x400.png  0%  100%  
+	    Новый файл 		     105	ui-bg_glass_65_ffffff_1x400.png  0%  100%  
+	    Новый файл 		    3762	ui-bg_gloss-wave_35_f6a828_500x100.png  0%  100%  
+	    Новый файл 		      90	ui-bg_highlight-soft_100_eeeeee_1x100.png  0%  100%  
+	    Новый файл 		     129	ui-bg_highlight-soft_75_ffe45c_1x100.png  0%  100%  
+	    Новый файл 		    4369	ui-icons_222222_256x240.png  0%  100%  
+	    Новый файл 		    4369	ui-icons_228ef1_256x240.png  0%  100%  
+	    Новый файл 		    4369	ui-icons_ef8c08_256x240.png  0%  100%  
+	    Новый файл 		    4369	ui-icons_ffd27a_256x240.png  0%  100%  
+	    Новый файл 		    4369	ui-icons_ffffff_256x240.png  0%  100%  
+	    Новый файл 		    1207	zoom-in.png  0%  100%  
+	  Новая папка          4	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Installer\Js\
+	    Новый файл 		    7058	ie-png.js  0%  100%  
+	    Новый файл 		   62130	jquery.main.js  0%  100%  
+	    Новый файл 		   19146	jquery.ui.selectmenu.js  0%  100%  
+	    Новый файл 		    9543	PackageInstaller.js  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Jeditable\
+	    Новый файл 		   24034	jquery.jeditable.js  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\MacroContainer\
+	    Новый файл 		     666	macroContainer.css  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\MaskedInput\
+	    Новый файл 		    4028	jquery.maskedinput-1.3.min.js  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Menuicon\
+	    Новый файл 		     571	style.css  0%  100%  
+	  Новая папка          3	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Menuicon\Images\
+	    Новый файл 		     273	buttonbg.gif  0%  100%  
+	    Новый файл 		     273	buttonbgdown.gif  0%  100%  
+	    Новый файл 		     851	split.gif  0%  100%  
+	  Новая папка          5	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Modal\
+	    Новый файл 		   24893	jquery.simplemodal.1.4.1.custom.js  0%  100%  
+	    Новый файл 		   20746	modal.js  0%  100%  
+	    Новый файл 		     475	modalBackground.gif  0%  100%  
+	    Новый файл 		     151	modalGradiant.gif  0%  100%  
+	    Новый файл 		    1417	style.css  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Mousewheel\
+	    Новый файл 		    1638	jquery.mousewheel.js  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Panel\
+	    Новый файл 		     240	javascript.js  0%  100%  
+	    Новый файл 		    2608	style.css  0%  100%  
+	  Новая папка          6	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Panel\Images\
+	    Новый файл 		      98	panel_bg.gif  0%  100%  
+	    Новый файл 		      43	panel_boxfooter_bg.gif  0%  100%  
+	    Новый файл 		     162	panel_boxfooter_statusBar_bg.gif  0%  100%  
+	    Новый файл 		     164	panel_boxfooter_statusBar_h2_bg.gif  0%  100%  
+	    Новый файл 		     194	panel_boxhead_bg.gif  0%  100%  
+	    Новый файл 		     193	panel_boxhead_h2_bg.gif  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Preview\
+	    Новый файл 		    3508	previewModeBadge.png  0%  100%  
+	    Новый файл 		     169	umbracoPreview.css  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\ProgressBar\
+	    Новый файл 		     795	javascript.js  0%  100%  
+	    Новый файл 		     524	style.css  0%  100%  
+	  Новая папка          3	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\ProgressBar\Images\
+	    Новый файл 		     314	container_left.gif  0%  100%  
+	    Новый файл 		     102	container_right.gif  0%  100%  
+	    Новый файл 		     113	indicator.gif  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Propertypane\
+	    Новый файл 		    2000	style.css  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Propertypane\Images\
+	    Новый файл 		    9038	propertyBackground.gif  0%  100%  
+	    Новый файл 		     554	proppane_bg.png  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\PunyCode\
+	    Новый файл 		    2802	punycode.min.js  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Scrollingmenu\
+	    Новый файл 		    2851	javascript.js  0%  100%  
+	    Новый файл 		     255	style.css  0%  100%  
+	  Новая папка          3	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Scrollingmenu\Images\
+	    Новый файл 		     834	arrawBack.gif  0%  100%  
+	    Новый файл 		     834	arrowForward.gif  0%  100%  
+	    Новый файл 		     183	background.gif  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Scrollingmenu\Images\Button\
+	    Новый файл 		     273	buttonbg.gif  0%  100%  
+	    Новый файл 		     273	buttonbgdown.gif  0%  100%  
+	  Новая папка          0	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\SimpleEditor\
+	  Новая папка          3	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\SimpleEditor\Images\
+	    Новый файл 		      78	bold.gif  0%  100%  
+	    Новый файл 		      73	italic.gif  0%  100%  
+	    Новый файл 		     108	link.gif  0%  100%  
+	  Новая папка          3	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Splitbutton\
+	    Новый файл 		    2245	InsertMacroSplitButton.js  0%  100%  
+	    Новый файл 		   18462	jquery.splitbutton.js  0%  100%  
+	    Новый файл 		    2773	splitbutton.css  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Splitbutton\Images\
+	    Новый файл 		     130	splitbutton_downarrow.png  0%  100%  
+	    Новый файл 		     149	splitbutton_hover.png  0%  100%  
+	  Новая папка          4	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tablesorting\
+	    Новый файл 		   16523	jquery.tablesorter.min.js  0%  100%  
+	    Новый файл 		   18249	tableDragAndDrop.js  0%  100%  
+	    Новый файл 		   23499	tableFilter.js  0%  100%  
+	    Новый файл 		   12838	tableFilterUtill.js  0%  100%  
+	  Новая папка          3	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tablesorting\img\
+	    Новый файл 		     830	asc.gif  0%  100%  
+	    Новый файл 		      73	bg.gif  0%  100%  
+	    Новый файл 		     833	desc.gif  0%  100%  
+	  Новая папка          3	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tabview\
+	    Новый файл 		    3721	javascript.js  0%  100%  
+	    Новый файл 		    1589	oldstyle.css  0%  100%  
+	    Новый файл 		    2633	style.css  0%  100%  
+	  Новая папка          7	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tabview\Images\
+	    Новый файл 		     169	background.gif  0%  100%  
+	    Новый файл 		      73	bg.gif  0%  100%  
+	    Новый файл 		      43	footer_bg.gif  0%  100%  
+	    Новый файл 		     162	footer_statusBar_bg.gif  0%  100%  
+	    Новый файл 		     164	footer_statusBar_h2_bg.gif  0%  100%  
+	    Новый файл 		    1343	left_both.gif  0%  100%  
+	    Новый файл 		    3913	right_both.gif  0%  100%  
+	  Новая папка          0	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tags\
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tags\Css\
+	    Новый файл 		    1117	jquery.tagsinput.css  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tags\Js\
+	    Новый файл 		   11891	jquery.tagsinput.js  0%  100%  
+	    Новый файл 		    6400	jquery.tagsinput.min.js  0%  100%  
+	  Новая папка          4	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\
+	    Новый файл 		   26930	license.txt  0%  100%  
+	    Новый файл 		  232483	tiny_mce.js  0%   56%  100%  
+	    Новый файл 		    4912	tiny_mce_popup.js  0%  100%  
+	    Новый файл 		  524361	tiny_mce_src.js  0%   49%   99%  100%  
+	  Новая папка         16	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Langs\
+	    Новый файл 		    7049	da.js  0%  100%  
+	    Новый файл 		    7251	de.js  0%  100%  
+	    Новый файл 		    6515	en.js  0%  100%  
+	    Новый файл 		    6518	en_us.js  0%  100%  
+	    Новый файл 		    7711	fi.js  0%  100%  
+	    Новый файл 		    7765	fr.js  0%  100%  
+	    Новый файл 		   15279	he.js  0%  100%  
+	    Новый файл 		    7010	it.js  0%  100%  
+	    Новый файл 		   11301	ja.js  0%  100%  
+	    Новый файл 		    6635	nl.js  0%  100%  
+	    Новый файл 		    6958	no.js  0%  100%  
+	    Новый файл 		    7897	pl.js  0%  100%  
+	    Новый файл 		    7053	pt.js  0%  100%  
+	    Новый файл 		   19794	ru.js  0%  100%  
+	    Новый файл 		    6966	sv.js  0%  100%  
+	    Новый файл 		    8432	zh.js  0%  100%  
+	  Новая папка          0	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\
+	  Новая папка          3	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advhr\
+	    Новый файл 		     847	editor_plugin.js  0%  100%  
+	    Новый файл 		    1442	editor_plugin_src.js  0%  100%  
+	    Новый файл 		    2422	rule.htm  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advhr\Css\
+	    Новый файл 		     240	advhr.css  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advhr\Js\
+	    Новый файл 		    1322	rule.js  0%  100%  
+	  Новая папка         16	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advhr\Langs\
+	    Новый файл 		     127	da_dlg.js  0%  100%  
+	    Новый файл 		     129	de_dlg.js  0%  100%  
+	    Новый файл 		     117	en_dlg.js  0%  100%  
+	    Новый файл 		     120	en_us_dlg.js  0%  100%  
+	    Новый файл 		     128	fi_dlg.js  0%  100%  
+	    Новый файл 		     129	fr_dlg.js  0%  100%  
+	    Новый файл 		     225	he_dlg.js  0%  100%  
+	    Новый файл 		     138	it_dlg.js  0%  100%  
+	    Новый файл 		     146	ja_dlg.js  0%  100%  
+	    Новый файл 		     126	nl_dlg.js  0%  100%  
+	    Новый файл 		     127	no_dlg.js  0%  100%  
+	    Новый файл 		     150	pl_dlg.js  0%  100%  
+	    Новый файл 		     120	pt_dlg.js  0%  100%  
+	    Новый файл 		     342	ru_dlg.js  0%  100%  
+	    Новый файл 		     125	sv_dlg.js  0%  100%  
+	    Новый файл 		     142	zh_dlg.js  0%  100%  
+	  Новая папка          3	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advimage\
+	    Новый файл 		     791	editor_plugin.js  0%  100%  
+	    Новый файл 		    1391	editor_plugin_src.js  0%  100%  
+	    Новый файл 		   12086	image.htm  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advimage\Css\
+	    Новый файл 		     672	advimage.css  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advimage\Img\
+	    Новый файл 		    1624	sample.gif  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advimage\Js\
+	    Новый файл 		   12909	image.js  0%  100%  
+	  Новая папка         16	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advimage\Langs\
+	    Новый файл 		    1352	da_dlg.js  0%  100%  
+	    Новый файл 		    1363	de_dlg.js  0%  100%  
+	    Новый файл 		    1270	en_dlg.js  0%  100%  
+	    Новый файл 		    1273	en_us_dlg.js  0%  100%  
+	    Новый файл 		    1387	fi_dlg.js  0%  100%  
+	    Новый файл 		    1508	fr_dlg.js  0%  100%  
+	    Новый файл 		    2771	he_dlg.js  0%  100%  
+	    Новый файл 		    1467	it_dlg.js  0%  100%  
+	    Новый файл 		    2319	ja_dlg.js  0%  100%  
+	    Новый файл 		    1267	nl_dlg.js  0%  100%  
+	    Новый файл 		    1312	no_dlg.js  0%  100%  
+	    Новый файл 		    1467	pl_dlg.js  0%  100%  
+	    Новый файл 		    1374	pt_dlg.js  0%  100%  
+	    Новый файл 		    4924	ru_dlg.js  0%  100%  
+	    Новый файл 		    1266	sv_dlg.js  0%  100%  
+	    Новый файл 		    1761	zh_dlg.js  0%  100%  
+	  Новая папка          3	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advlink\
+	    Новый файл 		     973	editor_plugin.js  0%  100%  
+	    Новый файл 		    1633	editor_plugin_src.js  0%  100%  
+	    Новый файл 		   16123	link.htm  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advlink\Css\
+	    Новый файл 		     480	advlink.css  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advlink\Js\
+	    Новый файл 		   17341	advlink.js  0%  100%  
+	  Новая папка         16	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advlink\Langs\
+	    Новый файл 		    1944	da_dlg.js  0%  100%  
+	    Новый файл 		    1955	de_dlg.js  0%  100%  
+	    Новый файл 		    1667	en_dlg.js  0%  100%  
+	    Новый файл 		    1670	en_us_dlg.js  0%  100%  
+	    Новый файл 		    1985	fi_dlg.js  0%  100%  
+	    Новый файл 		    2120	fr_dlg.js  0%  100%  
+	    Новый файл 		    4332	he_dlg.js  0%  100%  
+	    Новый файл 		    1864	it_dlg.js  0%  100%  
+	    Новый файл 		    3274	ja_dlg.js  0%  100%  
+	    Новый файл 		    1710	nl_dlg.js  0%  100%  
+	    Новый файл 		    1871	no_dlg.js  0%  100%  
+	    Новый файл 		    2012	pl_dlg.js  0%  100%  
+	    Новый файл 		    1962	pt_dlg.js  0%  100%  
+	    Новый файл 		    5662	ru_dlg.js  0%  100%  
+	    Новый файл 		    1846	sv_dlg.js  0%  100%  
+	    Новый файл 		    2326	zh_dlg.js  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advlist\
+	    Новый файл 		    2324	editor_plugin.js  0%  100%  
+	    Новый файл 		    4726	editor_plugin_src.js  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Autolink\
+	    Новый файл 		    2355	editor_plugin.js  0%  100%  
+	    Новый файл 		    5492	editor_plugin_src.js  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Autoresize\
+	    Новый файл 		    1506	editor_plugin.js  0%  100%  
+	    Новый файл 		    4158	editor_plugin_src.js  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Autosave\
+	    Новый файл 		    3584	editor_plugin.js  0%  100%  
+	    Новый файл 		   13766	editor_plugin_src.js  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Autosave\Langs\
+	    Новый файл 		     256	en.js  0%  100%  
+	    Новый файл 		     259	en_us.js  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Bbcode\
+	    Новый файл 		    3231	editor_plugin.js  0%  100%  
+	    Новый файл 		    4361	editor_plugin_src.js  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Contextmenu\
+	    Новый файл 		    2540	editor_plugin.js  0%  100%  
+	    Новый файл 		    5227	editor_plugin_src.js  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Directionality\
+	    Новый файл 		    1259	editor_plugin.js  0%  100%  
+	    Новый файл 		    2189	editor_plugin_src.js  0%  100%  
+	  Новая папка          3	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Emotions\
+	    Новый файл 		     676	editor_plugin.js  0%  100%  
+	    Новый файл 		    1220	editor_plugin_src.js  0%  100%  
+	    Новый файл 		    5972	emotions.htm  0%  100%  
+	  Новая папка         16	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Emotions\Img\
+	    Новый файл 		     354	smiley-cool.gif  0%  100%  
+	    Новый файл 		     329	smiley-cry.gif  0%  100%  
+	    Новый файл 		     331	smiley-embarassed.gif  0%  100%  
+	    Новый файл 		     342	smiley-foot-in-mouth.gif  0%  100%  
+	    Новый файл 		     340	smiley-frown.gif  0%  100%  
+	    Новый файл 		     336	smiley-innocent.gif  0%  100%  
+	    Новый файл 		     338	smiley-kiss.gif  0%  100%  
+	    Новый файл 		     343	smiley-laughing.gif  0%  100%  
+	    Новый файл 		     321	smiley-money-mouth.gif  0%  100%  
+	    Новый файл 		     323	smiley-sealed.gif  0%  100%  
+	    Новый файл 		     344	smiley-smile.gif  0%  100%  
+	    Новый файл 		     338	smiley-surprised.gif  0%  100%  
+	    Новый файл 		     328	smiley-tongue-out.gif  0%  100%  
+	    Новый файл 		     337	smiley-undecided.gif  0%  100%  
+	    Новый файл 		     350	smiley-wink.gif  0%  100%  
+	    Новый файл 		     336	smiley-yell.gif  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Emotions\Js\
+	    Новый файл 		    1120	emotions.js  0%  100%  
+	  Новая папка         16	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Emotions\Langs\
+	    Новый файл 		     463	da_dlg.js  0%  100%  
+	    Новый файл 		     478	de_dlg.js  0%  100%  
+	    Новый файл 		     421	en_dlg.js  0%  100%  
+	    Новый файл 		     424	en_us_dlg.js  0%  100%  
+	    Новый файл 		     532	fi_dlg.js  0%  100%  
+	    Новый файл 		     513	fr_dlg.js  0%  100%  
+	    Новый файл 		     999	he_dlg.js  0%  100%  
+	    Новый файл 		     472	it_dlg.js  0%  100%  
+	    Новый файл 		     738	ja_dlg.js  0%  100%  
+	    Новый файл 		     459	nl_dlg.js  0%  100%  
+	    Новый файл 		     446	no_dlg.js  0%  100%  
+	    Новый файл 		     529	pl_dlg.js  0%  100%  
+	    Новый файл 		     468	pt_dlg.js  0%  100%  
+	    Новый файл 		    1380	ru_dlg.js  0%  100%  
+	    Новый файл 		     496	sv_dlg.js  0%  100%  
+	    Новый файл 		     456	zh_dlg.js  0%  100%  
+	  Новая папка          3	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Example\
+	    Новый файл 		     908	dialog.htm  0%  100%  
+	    Новый файл 		     860	editor_plugin.js  0%  100%  
+	    Новый файл 		    2988	editor_plugin_src.js  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Example\Img\
+	    Новый файл 		      87	example.gif  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Example\Js\
+	    Новый файл 		     609	dialog.js  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Example\Langs\
+	    Новый файл 		      79	en.js  0%  100%  
+	    Новый файл 		      82	en_dlg.js  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\example_dependency\
+	    Новый файл 		     419	editor_plugin.js  0%  100%  
+	    Новый файл 		    1885	editor_plugin_src.js  0%  100%  
+	  Новая папка          3	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Fullpage\
+	    Новый файл 		    6322	editor_plugin.js  0%  100%  
+	    Новый файл 		   11568	editor_plugin_src.js  0%  100%  
+	    Новый файл 		   10754	fullpage.htm  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Fullpage\Css\
+	    Новый файл 		    2188	fullpage.css  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Fullpage\Js\
+	    Новый файл 		    8164	fullpage.js  0%  100%  
+	  Новая папка         16	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Fullpage\Langs\
+	    Новый файл 		    2347	da_dlg.js  0%  100%  
+	    Новый файл 		    2469	de_dlg.js  0%  100%  
+	    Новый файл 		    2297	en_dlg.js  0%  100%  
+	    Новый файл 		    2300	en_us_dlg.js  0%  100%  
+	    Новый файл 		    2541	fi_dlg.js  0%  100%  
+	    Новый файл 		    2864	fr_dlg.js  0%  100%  
+	    Новый файл 		    4260	he_dlg.js  0%  100%  
+	    Новый файл 		    2520	it_dlg.js  0%  100%  
+	    Новый файл 		    3802	ja_dlg.js  0%  100%  
+	    Новый файл 		    2365	nl_dlg.js  0%  100%  
+	    Новый файл 		    2359	no_dlg.js  0%  100%  
+	    Новый файл 		    2712	pl_dlg.js  0%  100%  
+	    Новый файл 		    2387	pt_dlg.js  0%  100%  
+	    Новый файл 		    6193	ru_dlg.js  0%  100%  
+	    Новый файл 		    2499	sv_dlg.js  0%  100%  
+	    Новый файл 		    2863	zh_dlg.js  0%  100%  
+	  Новая папка          3	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Fullscreen\
+	    Новый файл 		    4422	editor_plugin.js  0%  100%  
+	    Новый файл 		    8222	editor_plugin_src.js  0%  100%  
+	    Новый файл 		    3655	fullscreen.htm  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Iespell\
+	    Новый файл 		     909	editor_plugin.js  0%  100%  
+	    Новый файл 		    1484	editor_plugin_src.js  0%  100%  
+	  Новая папка          3	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Inlinepopups\
+	    Новый файл 		   11928	editor_plugin.js  0%  100%  
+	    Новый файл 		   19657	editor_plugin_src.js  0%  100%  
+	    Новый файл 		   12878	template.htm  0%  100%  
+	  Новая папка          0	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Inlinepopups\Skins\
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Inlinepopups\Skins\Clearlooks2\
+	    Новый файл 		    6715	window.css  0%  100%  
+	  Новая папка          7	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Inlinepopups\Skins\Clearlooks2\Img\
+	    Новый файл 		     810	alert.gif  0%  100%  
+	    Новый файл 		     272	button.gif  0%  100%  
+	    Новый файл 		    1195	buttons.gif  0%  100%  
+	    Новый файл 		     907	confirm.gif  0%  100%  
+	    Новый файл 		     909	corners.gif  0%  100%  
+	    Новый файл 		     769	horizontal.gif  0%  100%  
+	    Новый файл 		      84	vertical.gif  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Inlinepopups\Skins\Umbraco\
+	    Новый файл 		    4816	window.css  0%  100%  
+	  Новая папка          8	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Inlinepopups\Skins\Umbraco\Img\
+	    Новый файл 		     818	alert.gif  0%  100%  
+	    Новый файл 		     280	button.gif  0%  100%  
+	    Новый файл 		    1195	buttons.gif  0%  100%  
+	    Новый файл 		    3728	close.png  0%  100%  
+	    Новый файл 		     915	confirm.gif  0%  100%  
+	    Новый файл 		     569	corners.gif  0%  100%  
+	    Новый файл 		     436	horizontal.gif  0%  100%  
+	    Новый файл 		     140	vertical.gif  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Insertdatetime\
+	    Новый файл 		    1931	editor_plugin.js  0%  100%  
+	    Новый файл 		    2860	editor_plugin_src.js  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Layer\
+	    Новый файл 		    4052	editor_plugin.js  0%  100%  
+	    Новый файл 		    6747	editor_plugin_src.js  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Legacyoutput\
+	    Новый файл 		    2086	editor_plugin.js  0%  100%  
+	    Новый файл 		    5077	editor_plugin_src.js  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Lists\
+	    Новый файл 		   14380	editor_plugin.js  0%  100%  
+	    Новый файл 		   32531	editor_plugin_src.js  0%  100%  
+	  Новая папка          4	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Media\
+	    Новый файл 		   12655	editor_plugin.js  0%  100%  
+	    Новый файл 		   26419	editor_plugin_src.js  0%  100%  
+	    Новый файл 		   38852	media.htm  0%  100%  
+	    Новый файл 		   19980	moxieplayer.swf  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Media\Css\
+	    Новый файл 		    1357	media.css  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Media\Js\
+	    Новый файл 		    1938	embed.js  0%  100%  
+	    Новый файл 		   16473	media.js  0%  100%  
+	  Новая папка         18	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Media\Langs\
+	    Новый файл 		    3077	da_dlg.js  0%  100%  
+	    Новый файл 		    3164	de_dlg.js  0%  100%  
+	    Новый файл 		    2815	en_dlg.js  0%  100%  
+	    Новый файл 		    2818	en_us_dlg.js  0%  100%  
+	    Новый файл 		    3018	es_dlg.js  0%  100%  
+	    Новый файл 		    3314	fi_dlg.js  0%  100%  
+	    Новый файл 		    3302	fr_dlg.js  0%  100%  
+	    Новый файл 		    5399	he_dlg.js  0%  100%  
+	    Новый файл 		    3062	it_dlg.js  0%  100%  
+	    Новый файл 		    5047	ja_dlg.js  0%  100%  
+	    Новый файл 		    2734	ko_dlg.js  0%  100%  
+	    Новый файл 		    2949	nl_dlg.js  0%  100%  
+	    Новый файл 		    3047	no_dlg.js  0%  100%  
+	    Новый файл 		    3259	pl_dlg.js  0%  100%  
+	    Новый файл 		    3259	pt_dlg.js  0%  100%  
+	    Новый файл 		    9433	ru_dlg.js  0%  100%  
+	    Новый файл 		    2962	sv_dlg.js  0%  100%  
+	    Новый файл 		    3445	zh_dlg.js  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Nonbreaking\
+	    Новый файл 		     944	editor_plugin.js  0%  100%  
+	    Новый файл 		    1521	editor_plugin_src.js  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Noneditable\
+	    Новый файл 		    5431	editor_plugin.js  0%  100%  
+	    Новый файл 		   17154	editor_plugin_src.js  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Pagebreak\
+	    Новый файл 		    1402	editor_plugin.js  0%  100%  
+	    Новый файл 		    2161	editor_plugin_src.js  0%  100%  
+	  Новая папка          4	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Paste\
+	    Новый файл 		   13713	editor_plugin.js  0%  100%  
+	    Новый файл 		   31674	editor_plugin_src.js  0%  100%  
+	    Новый файл 		    1209	pastetext.htm  0%  100%  
+	    Новый файл 		     783	pasteword.htm  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Paste\Js\
+	    Новый файл 		     884	pastetext.js  0%  100%  
+	    Новый файл 		    1647	pasteword.js  0%  100%  
+	  Новая папка         16	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Paste\Langs\
+	    Новый файл 		     227	da_dlg.js  0%  100%  
+	    Новый файл 		     262	de_dlg.js  0%  100%  
+	    Новый файл 		     226	en_dlg.js  0%  100%  
+	    Новый файл 		     229	en_us_dlg.js  0%  100%  
+	    Новый файл 		     245	fi_dlg.js  0%  100%  
+	    Новый файл 		     276	fr_dlg.js  0%  100%  
+	    Новый файл 		     610	he_dlg.js  0%  100%  
+	    Новый файл 		     252	it_dlg.js  0%  100%  
+	    Новый файл 		     517	ja_dlg.js  0%  100%  
+	    Новый файл 		     209	nl_dlg.js  0%  100%  
+	    Новый файл 		     256	no_dlg.js  0%  100%  
+	    Новый файл 		     263	pl_dlg.js  0%  100%  
+	    Новый файл 		     190	pt_dlg.js  0%  100%  
+	    Новый файл 		     633	ru_dlg.js  0%  100%  
+	    Новый файл 		     284	sv_dlg.js  0%  100%  
+	    Новый файл 		     258	zh_dlg.js  0%  100%  
+	  Новая папка          4	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Preview\
+	    Новый файл 		    1051	editor_plugin.js  0%  100%  
+	    Новый файл 		    1641	editor_plugin_src.js  0%  100%  
+	    Новый файл 		     731	example.html  0%  100%  
+	    Новый файл 		     630	preview.html  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Preview\Jscripts\
+	    Новый файл 		    1938	embed.js  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Print\
+	    Новый файл 		     492	editor_plugin.js  0%  100%  
+	    Новый файл 		     881	editor_plugin_src.js  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Save\
+	    Новый файл 		    1569	editor_plugin.js  0%  100%  
+	    Новый файл 		    2529	editor_plugin_src.js  0%  100%  
+	  Новая папка          3	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Searchreplace\
+	    Новый файл 		    1046	editor_plugin.js  0%  100%  
+	    Новый файл 		    1795	editor_plugin_src.js  0%  100%  
+	    Новый файл 		    5334	searchreplace.htm  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Searchreplace\Css\
+	    Новый файл 		     176	searchreplace.css  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Searchreplace\Js\
+	    Новый файл 		    3878	searchreplace.js  0%  100%  
+	  Новая папка         16	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Searchreplace\Langs\
+	    Новый файл 		     461	da_dlg.js  0%  100%  
+	    Новый файл 		     522	de_dlg.js  0%  100%  
+	    Новый файл 		     445	en_dlg.js  0%  100%  
+	    Новый файл 		     448	en_us_dlg.js  0%  100%  
+	    Новый файл 		     468	fi_dlg.js  0%  100%  
+	    Новый файл 		     584	fr_dlg.js  0%  100%  
+	    Новый файл 		    1056	he_dlg.js  0%  100%  
+	    Новый файл 		     473	it_dlg.js  0%  100%  
+	    Новый файл 		     755	ja_dlg.js  0%  100%  
+	    Новый файл 		     488	nl_dlg.js  0%  100%  
+	    Новый файл 		     475	no_dlg.js  0%  100%  
+	    Новый файл 		     602	pl_dlg.js  0%  100%  
+	    Новый файл 		     489	pt_dlg.js  0%  100%  
+	    Новый файл 		    1262	ru_dlg.js  0%  100%  
+	    Новый файл 		     535	sv_dlg.js  0%  100%  
+	    Новый файл 		     633	zh_dlg.js  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Spellchecker\
+	    Новый файл 		    7217	editor_plugin.js  0%  100%  
+	    Новый файл 		   12791	editor_plugin_src.js  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Spellchecker\Css\
+	    Новый файл 		      98	content.css  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Spellchecker\Img\
+	    Новый файл 		      46	wline.gif  0%  100%  
+	  Новая папка          4	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Style\
+	    Новый файл 		    1117	editor_plugin.js  0%  100%  
+	    Новый файл 		    1927	editor_plugin_src.js  0%  100%  
+	    Новый файл 		   38494	props.htm  0%  100%  
+	    Новый файл 		    1030	readme.txt  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Style\Css\
+	    Новый файл 		     906	props.css  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Style\Js\
+	    Новый файл 		   32355	props.js  0%  100%  
+	  Новая папка         16	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Style\Langs\
+	    Новый файл 		    1689	da_dlg.js  0%  100%  
+	    Новый файл 		    1824	de_dlg.js  0%  100%  
+	    Новый файл 		    1627	en_dlg.js  0%  100%  
+	    Новый файл 		    1630	en_us_dlg.js  0%  100%  
+	    Новый файл 		    1762	fi_dlg.js  0%  100%  
+	    Новый файл 		    1723	fr_dlg.js  0%  100%  
+	    Новый файл 		    3246	he_dlg.js  0%  100%  
+	    Новый файл 		    1718	it_dlg.js  0%  100%  
+	    Новый файл 		    2436	ja_dlg.js  0%  100%  
+	    Новый файл 		    1652	nl_dlg.js  0%  100%  
+	    Новый файл 		    1648	no_dlg.js  0%  100%  
+	    Новый файл 		    1916	pl_dlg.js  0%  100%  
+	    Новый файл 		    1684	pt_dlg.js  0%  100%  
+	    Новый файл 		    4509	ru_dlg.js  0%  100%  
+	    Новый файл 		    1700	sv_dlg.js  0%  100%  
+	    Новый файл 		    2005	zh_dlg.js  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Tabfocus\
+	    Новый файл 		    1666	editor_plugin.js  0%  100%  
+	    Новый файл 		    3057	editor_plugin_src.js  0%  100%  
+	  Новая папка          6	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Table\
+	    Новый файл 		    7292	cell.htm  0%  100%  
+	    Новый файл 		   17667	editor_plugin.js  0%  100%  
+	    Новый файл 		   40915	editor_plugin_src.js  0%  100%  
+	    Новый файл 		    1508	merge_cells.htm  0%  100%  
+	    Новый файл 		    6263	row.htm  0%  100%  
+	    Новый файл 		    9035	table.htm  0%  100%  
+	  Новая папка          3	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Table\Css\
+	    Новый файл 		     205	cell.css  0%  100%  
+	    Новый файл 		     306	row.css  0%  100%  
+	    Новый файл 		     170	table.css  0%  100%  
+	  Новая папка          4	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Table\Js\
+	    Новый файл 		    9458	cell.js  0%  100%  
+	    Новый файл 		     566	merge_cells.js  0%  100%  
+	    Новый файл 		    7775	row.js  0%  100%  
+	    Новый файл 		   15534	table.js  0%  100%  
+	  Новая папка         16	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Table\Langs\
+	    Новый файл 		    2262	da_dlg.js  0%  100%  
+	    Новый файл 		    2462	de_dlg.js  0%  100%  
+	    Новый файл 		    2092	en_dlg.js  0%  100%  
+	    Новый файл 		    2095	en_us_dlg.js  0%  100%  
+	    Новый файл 		    2516	fi_dlg.js  0%  100%  
+	    Новый файл 		    2694	fr_dlg.js  0%  100%  
+	    Новый файл 		    4748	he_dlg.js  0%  100%  
+	    Новый файл 		    2301	it_dlg.js  0%  100%  
+	    Новый файл 		    3631	ja_dlg.js  0%  100%  
+	    Новый файл 		    2199	nl_dlg.js  0%  100%  
+	    Новый файл 		    2247	no_dlg.js  0%  100%  
+	    Новый файл 		    2653	pl_dlg.js  0%  100%  
+	    Новый файл 		    2285	pt_dlg.js  0%  100%  
+	    Новый файл 		    6724	ru_dlg.js  0%  100%  
+	    Новый файл 		    2189	sv_dlg.js  0%  100%  
+	    Новый файл 		    2859	zh_dlg.js  0%  100%  
+	  Новая папка          4	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Template\
+	    Новый файл 		     332	blank.htm  0%  100%  
+	    Новый файл 		    3302	editor_plugin.js  0%  100%  
+	    Новый файл 		    4986	editor_plugin_src.js  0%  100%  
+	    Новый файл 		    1441	template.htm  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Template\Css\
+	    Новый файл 		     275	template.css  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Template\Js\
+	    Новый файл 		    2777	template.js  0%  100%  
+	  Новая папка         16	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Template\Langs\
+	    Новый файл 		     670	da_dlg.js  0%  100%  
+	    Новый файл 		     662	de_dlg.js  0%  100%  
+	    Новый файл 		     627	en_dlg.js  0%  100%  
+	    Новый файл 		     630	en_us_dlg.js  0%  100%  
+	    Новый файл 		     756	fi_dlg.js  0%  100%  
+	    Новый файл 		     731	fr_dlg.js  0%  100%  
+	    Новый файл 		    1065	he_dlg.js  0%  100%  
+	    Новый файл 		     693	it_dlg.js  0%  100%  
+	    Новый файл 		    1041	ja_dlg.js  0%  100%  
+	    Новый файл 		     670	nl_dlg.js  0%  100%  
+	    Новый файл 		     651	no_dlg.js  0%  100%  
+	    Новый файл 		     688	pl_dlg.js  0%  100%  
+	    Новый файл 		     694	pt_dlg.js  0%  100%  
+	    Новый файл 		    2076	ru_dlg.js  0%  100%  
+	    Новый файл 		     670	sv_dlg.js  0%  100%  
+	    Новый файл 		     989	zh_dlg.js  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracocontextmenu\
+	    Новый файл 		    2561	editor_plugin_src.js  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracocss\
+	    Новый файл 		     991	dialog.htm  0%  100%  
+	    Новый файл 		    8362	editor_plugin_src.js  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracocss\Img\
+	    Новый файл 		      87	example.gif  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracocss\Js\
+	    Новый файл 		     609	dialog.js  0%  100%  
+	  Новая папка         14	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracocss\Langs\
+	    Новый файл 		      79	en.js  0%  100%  
+	    Новый файл 		      82	en_dlg.js  0%  100%  
+	    Новый файл 		      82	en_us.js  0%  100%  
+	    Новый файл 		      85	en_us_dlg.js  0%  100%  
+	    Новый файл 		      67	it.js  0%  100%  
+	    Новый файл 		      71	it_dlg.js  0%  100%  
+	    Новый файл 		      92	ja.js  0%  100%  
+	    Новый файл 		      84	ja_dlg.js  0%  100%  
+	    Новый файл 		      96	ru.js  0%  100%  
+	    Новый файл 		     105	ru_dlg.js  0%  100%  
+	    Новый файл 		      76	sv.js  0%  100%  
+	    Новый файл 		      93	sv_dlg.js  0%  100%  
+	    Новый файл 		      67	zh.js  0%  100%  
+	    Новый файл 		      72	zh_dlg.js  0%  100%  
+	  Новая папка          3	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracoembed\
+	    Новый файл 		    3816	dialog.htm  0%  100%  
+	    Новый файл 		     860	editor_plugin.js  0%  100%  
+	    Новый файл 		    2984	editor_plugin_src.js  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracoembed\Img\
+	    Новый файл 		    1928	ajax-loader.gif  0%  100%  
+	    Новый файл 		     260	embed.gif  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracoembed\Js\
+	    Новый файл 		    3260	dialog.js  0%  100%  
+	  Новая папка         18	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracoembed\Langs\
+	    Новый файл 		      85	da.js  0%  100%  
+	    Новый файл 		     251	da_dlg.js  0%  100%  
+	    Новый файл 		     272	de.js  0%  100%  
+	    Новый файл 		     272	de_dlg.js  0%  100%  
+	    Новый файл 		      78	en.js  0%  100%  
+	    Новый файл 		     232	en_dlg.js  0%  100%  
+	    Новый файл 		      81	en_us.js  0%  100%  
+	    Новый файл 		     235	en_us_dlg.js  0%  100%  
+	    Новый файл 		     236	it.js  0%  100%  
+	    Новый файл 		     244	it_dlg.js  0%  100%  
+	    Новый файл 		     267	ja.js  0%  100%  
+	    Новый файл 		     268	ja_dlg.js  0%  100%  
+	    Новый файл 		     329	ru.js  0%  100%  
+	    Новый файл 		     329	ru_dlg.js  0%  100%  
+	    Новый файл 		     260	sv.js  0%  100%  
+	    Новый файл 		     260	sv_dlg.js  0%  100%  
+	    Новый файл 		     235	zh.js  0%  100%  
+	    Новый файл 		     235	zh_dlg.js  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracoimg\
+	    Новый файл 		    1739	editor_plugin_src.js  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracoimg\Js\
+	    Новый файл 		   10412	image.js  0%  100%  
+	  Новая папка          8	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracoimg\Langs\
+	    Новый файл 		    1495	en_dlg.js  0%  100%  
+	    Новый файл 		    1498	en_us_dlg.js  0%  100%  
+	    Новый файл 		    1495	he_dlg.js  0%  100%  
+	    Новый файл 		    1583	it_dlg.js  0%  100%  
+	    Новый файл 		    1694	ja_dlg.js  0%  100%  
+	    Новый файл 		    2314	ru_dlg.js  0%  100%  
+	    Новый файл 		    1536	sv_dlg.js  0%  100%  
+	    Новый файл 		    1346	zh_dlg.js  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracolink\
+	    Новый файл 		    1860	editor_plugin_src.js  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracolink\Js\
+	    Новый файл 		   17755	umbracolink.js  0%  100%  
+	  Новая папка         16	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracolink\Langs\
+	    Новый файл 		    1944	da_dlg.js  0%  100%  
+	    Новый файл 		    1955	de_dlg.js  0%  100%  
+	    Новый файл 		    1667	en_dlg.js  0%  100%  
+	    Новый файл 		    1670	en_us_dlg.js  0%  100%  
+	    Новый файл 		    1985	fi_dlg.js  0%  100%  
+	    Новый файл 		    2120	fr_dlg.js  0%  100%  
+	    Новый файл 		    4332	he_dlg.js  0%  100%  
+	    Новый файл 		    1864	it_dlg.js  0%  100%  
+	    Новый файл 		    3274	ja_dlg.js  0%  100%  
+	    Новый файл 		    1710	nl_dlg.js  0%  100%  
+	    Новый файл 		    1871	no_dlg.js  0%  100%  
+	    Новый файл 		    2012	pl_dlg.js  0%  100%  
+	    Новый файл 		    1962	pt_dlg.js  0%  100%  
+	    Новый файл 		    2727	ru_dlg.js  0%  100%  
+	    Новый файл 		    1846	sv_dlg.js  0%  100%  
+	    Новый файл 		    2326	zh_dlg.js  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracomacro\
+	    Новый файл 		     991	dialog.htm  0%  100%  
+	    Новый файл 		    6151	editor_plugin_src.js  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracomacro\Img\
+	    Новый файл 		     603	insMacro.gif  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracomacro\Js\
+	    Новый файл 		     609	dialog.js  0%  100%  
+	  Новая папка         14	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracomacro\Langs\
+	    Новый файл 		      69	en.js  0%  100%  
+	    Новый файл 		      82	en_dlg.js  0%  100%  
+	    Новый файл 		      72	en_us.js  0%  100%  
+	    Новый файл 		      85	en_us_dlg.js  0%  100%  
+	    Новый файл 		      79	he.js  0%  100%  
+	    Новый файл 		      82	he_dlg.js  0%  100%  
+	    Новый файл 		      75	ja.js  0%  100%  
+	    Новый файл 		      90	ja_dlg.js  0%  100%  
+	    Новый файл 		      86	ru.js  0%  100%  
+	    Новый файл 		      81	ru_dlg.js  0%  100%  
+	    Новый файл 		      69	sv.js  0%  100%  
+	    Новый файл 		      92	sv_dlg.js  0%  100%  
+	    Новый файл 		      66	zh.js  0%  100%  
+	    Новый файл 		      72	zh_dlg.js  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracopaste\
+	    Новый файл 		    1753	editor_plugin_src.js  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracoshortcut\
+	    Новый файл 		    1255	editor_plugin_src.js  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Visualblocks\
+	    Новый файл 		     958	editor_plugin.js  0%  100%  
+	    Новый файл 		    1712	editor_plugin_src.js  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Visualblocks\Css\
+	    Новый файл 		    3040	visualblocks.css  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Visualchars\
+	    Новый файл 		    1368	editor_plugin.js  0%  100%  
+	    Новый файл 		    2195	editor_plugin_src.js  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Wordcount\
+	    Новый файл 		    1960	editor_plugin.js  0%  100%  
+	    Новый файл 		    3331	editor_plugin_src.js  0%  100%  
+	  Новая папка          8	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Xhtmlxtras\
+	    Новый файл 		    6243	abbr.htm  0%  100%  
+	    Новый файл 		    6258	acronym.htm  0%  100%  
+	    Новый файл 		    6232	attributes.htm  0%  100%  
+	    Новый файл 		    6243	cite.htm  0%  100%  
+	    Новый файл 		    7294	del.htm  0%  100%  
+	    Новый файл 		    2756	editor_plugin.js  0%  100%  
+	    Новый файл 		    4098	editor_plugin_src.js  0%  100%  
+	    Новый файл 		    7299	ins.htm  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Xhtmlxtras\Css\
+	    Новый файл 		     197	attributes.css  0%  100%  
+	    Новый файл 		     514	popup.css  0%  100%  
+	  Новая папка          7	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Xhtmlxtras\Js\
+	    Новый файл 		     541	abbr.js  0%  100%  
+	    Новый файл 		     559	acronym.js  0%  100%  
+	    Новый файл 		    3471	attributes.js  0%  100%  
+	    Новый файл 		     541	cite.js  0%  100%  
+	    Новый файл 		    1356	del.js  0%  100%  
+	    Новый файл 		    7159	element_common.js  0%  100%  
+	    Новый файл 		    1356	ins.js  0%  100%  
+	  Новая папка         16	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Xhtmlxtras\Langs\
+	    Новый файл 		    1194	da_dlg.js  0%  100%  
+	    Новый файл 		    1141	de_dlg.js  0%  100%  
+	    Новый файл 		    1092	en_dlg.js  0%  100%  
+	    Новый файл 		    1095	en_us_dlg.js  0%  100%  
+	    Новый файл 		    1214	fi_dlg.js  0%  100%  
+	    Новый файл 		    1195	fr_dlg.js  0%  100%  
+	    Новый файл 		    2222	he_dlg.js  0%  100%  
+	    Новый файл 		    1181	it_dlg.js  0%  100%  
+	    Новый файл 		    1531	ja_dlg.js  0%  100%  
+	    Новый файл 		    1149	nl_dlg.js  0%  100%  
+	    Новый файл 		    1147	no_dlg.js  0%  100%  
+	    Новый файл 		    1159	pl_dlg.js  0%  100%  
+	    Новый файл 		    1140	pt_dlg.js  0%  100%  
+	    Новый файл 		    2564	ru_dlg.js  0%  100%  
+	    Новый файл 		    1157	sv_dlg.js  0%  100%  
+	    Новый файл 		    1372	zh_dlg.js  0%  100%  
+	  Новая папка          0	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\
+	  Новая папка         10	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\
+	    Новый файл 		    2701	about.htm  0%  100%  
+	    Новый файл 		    1167	anchor.htm  0%  100%  
+	    Новый файл 		    2251	charmap.htm  0%  100%  
+	    Новый файл 		    3317	color_picker.htm  0%  100%  
+	    Новый файл 		   26734	editor_template.js  0%  100%  
+	    Новый файл 		   43419	editor_template_src.js  0%  100%  
+	    Новый файл 		    4038	image.htm  0%  100%  
+	    Новый файл 		    2527	link.htm  0%  100%  
+	    Новый файл 		    1732	shortcuts.htm  0%  100%  
+	    Новый файл 		    1269	source_editor.htm  0%  100%  
+	  Новая папка         11	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Img\
+	    Новый файл 		    2584	colorpicker.jpg  0%  100%  
+	    Новый файл 		     239	flash.gif  0%  100%  
+	    Новый файл 		   11982	icons.gif  0%  100%  
+	    Новый файл 		     600	iframe.gif  0%  100%  
+	    Новый файл 		     325	pagebreak.gif  0%  100%  
+	    Новый файл 		     301	quicktime.gif  0%  100%  
+	    Новый файл 		     439	realmedia.gif  0%  100%  
+	    Новый файл 		     384	shockwave.gif  0%  100%  
+	    Новый файл 		      43	trans.gif  0%  100%  
+	    Новый файл 		     597	video.gif  0%  100%  
+	    Новый файл 		     415	windowsmedia.gif  0%  100%  
+	  Новая папка          7	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Js\
+	    Новый файл 		    2203	about.js  0%  100%  
+	    Новый файл 		    1498	anchor.js  0%  100%  
+	    Новый файл 		   15793	charmap.js  0%  100%  
+	    Новый файл 		   14559	color_picker.js  0%  100%  
+	    Новый файл 		    6391	image.js  0%  100%  
+	    Новый файл 		    4947	link.js  0%  100%  
+	    Новый файл 		    1694	source_editor.js  0%  100%  
+	  Новая папка         28	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Langs\
+	    Новый файл 		    2547	da.js  0%  100%  
+	    Новый файл 		    2201	da_dlg.js  0%  100%  
+	    Новый файл 		    2623	de.js  0%  100%  
+	    Новый файл 		    2152	de_dlg.js  0%  100%  
+	    Новый файл 		    2341	en.js  0%  100%  
+	    Новый файл 		    1981	en_dlg.js  0%  100%  
+	    Новый файл 		    2767	fi.js  0%  100%  
+	    Новый файл 		    2287	fi_dlg.js  0%  100%  
+	    Новый файл 		    2782	fr.js  0%  100%  
+	    Новый файл 		    2341	fr_dlg.js  0%  100%  
+	    Новый файл 		    5268	he.js  0%  100%  
+	    Новый файл 		    4766	he_dlg.js  0%  100%  
+	    Новый файл 		    2771	it.js  0%  100%  
+	    Новый файл 		    2120	it_dlg.js  0%  100%  
+	    Новый файл 		    3775	ja.js  0%  100%  
+	    Новый файл 		    3416	ja_dlg.js  0%  100%  
+	    Новый файл 		    2329	nl.js  0%  100%  
+	    Новый файл 		    2040	nl_dlg.js  0%  100%  
+	    Новый файл 		    2400	no.js  0%  100%  
+	    Новый файл 		    2124	no_dlg.js  0%  100%  
+	    Новый файл 		    2869	pl.js  0%  100%  
+	    Новый файл 		    2298	pl_dlg.js  0%  100%  
+	    Новый файл 		    2714	pt.js  0%  100%  
+	    Новый файл 		    2217	pt_dlg.js  0%  100%  
+	    Новый файл 		    2502	sv.js  0%  100%  
+	    Новый файл 		    2205	sv_dlg.js  0%  100%  
+	    Новый файл 		    3059	zh.js  0%  100%  
+	    Новый файл 		    2544	zh_dlg.js  0%  100%  
+	  Новая папка          0	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Skins\
+	  Новая папка          3	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Skins\Default\
+	    Новый файл 		    2607	content.css  0%  100%  
+	    Новый файл 		    5761	dialog.css  0%  100%  
+	    Новый файл 		   15959	ui.css  0%  100%  
+	  Новая папка          6	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Skins\Default\Img\
+	    Новый файл 		    3133	buttons.png  0%  100%  
+	    Новый файл 		      64	items.gif  0%  100%  
+	    Новый файл 		      68	menu_arrow.gif  0%  100%  
+	    Новый файл 		      70	menu_check.gif  0%  100%  
+	    Новый файл 		    1787	progress.gif  0%  100%  
+	    Новый файл 		    1322	tabs.gif  0%  100%  
+	  Новая папка          3	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Skins\Highcontrast\
+	    Новый файл 		    1122	content.css  0%  100%  
+	    Новый файл 		    5219	dialog.css  0%  100%  
+	    Новый файл 		    8886	ui.css  0%  100%  
+	  Новая папка          5	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Skins\O2k7\
+	    Новый файл 		    2331	content.css  0%  100%  
+	    Новый файл 		    5849	dialog.css  0%  100%  
+	    Новый файл 		   15405	ui.css  0%  100%  
+	    Новый файл 		    1695	ui_black.css  0%  100%  
+	    Новый файл 		     860	ui_silver.css  0%  100%  
+	  Новая папка          3	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Skins\O2k7\Img\
+	    Новый файл 		    2766	button_bg.png  0%  100%  
+	    Новый файл 		     651	button_bg_black.png  0%  100%  
+	    Новый файл 		    2084	button_bg_silver.png  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Simple\
+	    Новый файл 		    2226	editor_template.js  0%  100%  
+	    Новый файл 		    3205	editor_template_src.js  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Simple\Img\
+	    Новый файл 		     806	icons.gif  0%  100%  
+	  Новая папка         14	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Simple\Langs\
+	    Новый файл 		     359	da.js  0%  100%  
+	    Новый файл 		     355	de.js  0%  100%  
+	    Новый файл 		     347	en.js  0%  100%  
+	    Новый файл 		     376	fi.js  0%  100%  
+	    Новый файл 		     349	fr.js  0%  100%  
+	    Новый файл 		     539	he.js  0%  100%  
+	    Новый файл 		     345	it.js  0%  100%  
+	    Новый файл 		     487	ja.js  0%  100%  
+	    Новый файл 		     326	nl.js  0%  100%  
+	    Новый файл 		     309	no.js  0%  100%  
+	    Новый файл 		     382	pl.js  0%  100%  
+	    Новый файл 		     351	pt.js  0%  100%  
+	    Новый файл 		     347	sv.js  0%  100%  
+	    Новый файл 		     401	zh.js  0%  100%  
+	  Новая папка          0	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Simple\Skins\
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Simple\Skins\Default\
+	    Новый файл 		     513	content.css  0%  100%  
+	    Новый файл 		    2105	ui.css  0%  100%  
+	  Новая папка          2	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Simple\Skins\O2k7\
+	    Новый файл 		     461	content.css  0%  100%  
+	    Новый файл 		    2340	ui.css  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Simple\Skins\O2k7\Img\
+	    Новый файл 		    5102	button_bg.png  0%  100%  
+	  Новая папка          9	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Umbraco\
+	    Новый файл 		    2682	about.htm  0%  100%  
+	    Новый файл 		    1091	anchor.htm  0%  100%  
+	    Новый файл 		    2339	charmap.htm  0%  100%  
+	    Новый файл 		    3333	color_picker.htm  0%  100%  
+	    Новый файл 		   43516	editor_template_src.js  0%  100%  
+	    Новый файл 		    4046	image.htm  0%  100%  
+	    Новый файл 		    2547	link.htm  0%  100%  
+	    Новый файл 		    1730	shortcuts.htm  0%  100%  
+	    Новый файл 		    1382	source_editor.htm  0%  100%  
+	  Новая папка         11	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Umbraco\Img\
+	    Новый файл 		    2584	colorpicker.jpg  0%  100%  
+	    Новый файл 		     239	flash.gif  0%  100%  
+	    Новый файл 		   11982	icons.gif  0%  100%  
+	    Новый файл 		     600	iframe.gif  0%  100%  
+	    Новый файл 		     325	pagebreak.gif  0%  100%  
+	    Новый файл 		     301	quicktime.gif  0%  100%  
+	    Новый файл 		     439	realmedia.gif  0%  100%  
+	    Новый файл 		     384	shockwave.gif  0%  100%  
+	    Новый файл 		      43	trans.gif  0%  100%  
+	    Новый файл 		     597	video.gif  0%  100%  
+	    Новый файл 		     415	windowsmedia.gif  0%  100%  
+	  Новая папка          7	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Umbraco\Js\
+	    Новый файл 		    2203	about.js  0%  100%  
+	    Новый файл 		    1193	anchor.js  0%  100%  
+	    Новый файл 		   15793	charmap.js  0%  100%  
+	    Новый файл 		   14559	color_picker.js  0%  100%  
+	    Новый файл 		    6391	image.js  0%  100%  
+	    Новый файл 		    4884	link.js  0%  100%  
+	    Новый файл 		    1694	source_editor.js  0%  100%  
+	  Новая папка         30	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Umbraco\Langs\
+	    Новый файл 		    2109	da.js  0%  100%  
+	    Новый файл 		    1926	da_dlg.js  0%  100%  
+	    Новый файл 		    2265	de.js  0%  100%  
+	    Новый файл 		    1860	de_dlg.js  0%  100%  
+	    Новый файл 		    2488	en.js  0%  100%  
+	    Новый файл 		    2066	en_dlg.js  0%  100%  
+	    Новый файл 		    2491	en_us.js  0%  100%  
+	    Новый файл 		    2069	en_us_dlg.js  0%  100%  
+	    Новый файл 		    2232	es.js  0%  100%  
+	    Новый файл 		    1998	es_dlg.js  0%  100%  
+	    Новый файл 		    2294	fr.js  0%  100%  
+	    Новый файл 		    1964	fr_dlg.js  0%  100%  
+	    Новый файл 		    2209	he.js  0%  100%  
+	    Новый файл 		    1987	he_dlg.js  0%  100%  
+	    Новый файл 		    2669	it.js  0%  100%  
+	    Новый файл 		    2058	it_dlg.js  0%  100%  
+	    Новый файл 		    2727	ja.js  0%  100%  
+	    Новый файл 		    2429	ja_dlg.js  0%  100%  
+	    Новый файл 		    2823	ko.js  0%  100%  
+	    Новый файл 		    2147	ko_dlg.js  0%  100%  
+	    Новый файл 		    1946	nl.js  0%  100%  
+	    Новый файл 		    1768	nl_dlg.js  0%  100%  
+	    Новый файл 		    1948	no.js  0%  100%  
+	    Новый файл 		    1846	no_dlg.js  0%  100%  
+	    Новый файл 		    3405	ru.js  0%  100%  
+	    Новый файл 		    2725	ru_dlg.js  0%  100%  
+	    Новый файл 		    2012	sv.js  0%  100%  
+	    Новый файл 		    1912	sv_dlg.js  0%  100%  
+	    Новый файл 		    2409	zh.js  0%  100%  
+	    Новый файл 		    2070	zh_dlg.js  0%  100%  
+	  Новая папка          0	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Umbraco\Skins\
+	  Новая папка          3	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Umbraco\Skins\Umbraco\
+	    Новый файл 		    1367	content.css  0%  100%  
+	    Новый файл 		    5364	dialog.css  0%  100%  
+	    Новый файл 		   16035	ui.css  0%  100%  
+	  Новая папка          6	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Umbraco\Skins\Umbraco\Img\
+	    Новый файл 		    4579	buttons.png  0%  100%  
+	    Новый файл 		      70	items.gif  0%  100%  
+	    Новый файл 		      68	menu_arrow.gif  0%  100%  
+	    Новый файл 		      70	menu_check.gif  0%  100%  
+	    Новый файл 		    1787	progress.gif  0%  100%  
+	    Новый файл 		    1326	tabs.gif  0%  100%  
+	  Новая папка          4	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tinymce3\Utils\
+	    Новый файл 		    2046	editable_selects.js  0%  100%  
+	    Новый файл 		    5991	form_utils.js  0%  100%  
+	    Новый файл 		    4055	mctabs.js  0%  100%  
+	    Новый файл 		    6100	validate.js  0%  100%  
+	  Новая папка         11	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tree\
+	    Новый файл 		    2638	jquery.tree.checkbox.js  0%  100%  
+	    Новый файл 		    9637	jquery.tree.contextmenu.js  0%  100%  
+	    Новый файл 		  114705	jquery.tree.js  0%  100%  
+	    Новый файл 		     548	jquery.tree.metadata.js  0%  100%  
+	    Новый файл 		    1642	menuIcons.css  0%  100%  
+	    Новый файл 		    1866	NodeDefinition.js  0%  100%  
+	    Новый файл 		   12897	sprites.png  0%  100%  
+	    Новый файл 		    7307	sprites_ie6.gif  0%  100%  
+	    Новый файл 		    2597	treeIcons.css  0%  100%  
+	    Новый файл 		    3662	UmbracoContext.js  0%  100%  
+	    Новый файл 		   55287	UmbracoTree.js  0%  100%  
+	  Новая папка          5	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tree\Themes\
+	    Новый файл 		      61	marker.gif  0%  100%  
+	    Новый файл 		      62	marker_rtl.gif  0%  100%  
+	    Новый файл 		      52	plus.gif  0%  100%  
+	    Новый файл 		     720	remove.png  0%  100%  
+	    Новый файл 		    3867	rename.png  0%  100%  
+	  Новая папка          4	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tree\Themes\Default\
+	    Новый файл 		      43	dot_for_ie.gif  0%  100%  
+	    Новый файл 		    6680	icons.png  0%  100%  
+	    Новый файл 		    2435	style.css  0%  100%  
+	    Новый файл 		    1844	throbber.gif  0%  100%  
+	  Новая папка         21	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Tree\Themes\Umbraco\
+	    Новый файл 		    1600	arrows.png  0%  100%  
+	    Новый файл 		    2910	check_0.png  0%  100%  
+	    Новый файл 		    3197	check_1.png  0%  100%  
+	    Новый файл 		    3283	check_2.png  0%  100%  
+	    Новый файл 		      35	context.gif  0%  100%  
+	    Новый файл 		      54	contextMenuBg.gif  0%  100%  
+	    Новый файл 		    3329	create.png  0%  100%  
+	    Новый файл 		      43	dot.gif  0%  100%  
+	    Новый файл 		    3237	f.png  0%  100%  
+	    Новый файл 		      60	fminus.gif  0%  100%  
+	    Новый файл 		      59	fminus_rtl.gif  0%  100%  
+	    Новый файл 		     108	fplus.gif  0%  100%  
+	    Новый файл 		     108	fplus_rtl.gif  0%  100%  
+	    Новый файл 		    6680	icons.png  0%  100%  
+	    Новый файл 		      55	lastli.gif  0%  100%  
+	    Новый файл 		      54	lastli_rtl.gif  0%  100%  
+	    Новый файл 		      47	li.gif  0%  100%  
+	    Новый файл 		     381	newVersion_overlay.png  0%  100%  
+	    Новый файл 		     282	protect_overlay.gif  0%  100%  
+	    Новый файл 		    5258	style.css  0%  100%  
+	    Новый файл 		    1844	throbber.gif  0%  100%  
+	  Новая папка         14	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Ui\
+	    Новый файл 		   52012	base2.js  0%  100%  
+	    Новый файл 		    4482	dd.css  0%  100%  
+	    Новый файл 		     138	dd_arrow.gif  0%  100%  
+	    Новый файл 		   13659	default.css  0%  100%  
+	    Новый файл 		    2324	default.js  0%  100%  
+	    Новый файл 		    1423	jquery.alphanumeric.js  0%  100%  
+	    Новый файл 		   51648	jquery.dd.js  0%  100%  
+	    Новый файл 		   85582	jquery.js  0%  100%  
+	    Новый файл 		    3581	jquery.tooltip.min.js  0%  100%  
+	    Новый файл 		  240439	jqueryui.js  0%   54%  100%  
+	    Новый файл 		    1943	jQueryWresize.js  0%  100%  
+	    Новый файл 		    3954	json2.js  0%  100%  
+	    Новый файл 		   41412	knockout.js  0%  100%  
+	    Новый файл 		    8687	knockout.mapping.js  0%  100%  
+	  Новая папка          1	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Ui\ui-lightness\
+	    Новый файл 		   33967	jquery-ui.custom.css  0%  100%  
+	  Новая папка         14	C:\work\!!sorted\cms\my_test_umbraco\WebApplication1\packages\UmbracoCms.7.5.2\UmbracoFiles\Umbraco_Client\Ui\ui-lightness\images\
+	    Новый файл 		     260	ui-bg_diagonals-thick_18_b81900_40x40.png  0%  100%  
+	    Новый файл 		     251	ui-bg_diagonals-thick_20_666666_40x40.png  0%  100%  
+	    Новый файл 		     178	ui-bg_flat_10_000000_40x100.png  0%  100%  
+	    Новый файл 		     104	ui-bg_glass_100_f6f6f6_1x400.png  0%  100%  
+	    Новый файл 		     125	ui-bg_glass_100_fdf5ce_1x400.png  0%  100%  
+	    Новый файл 		     105	ui-bg_glass_65_ffffff_1x400.png  0%  100%  
+	    Новый файл 		    3762	ui-bg_gloss-wave_35_f6a828_500x100.png  0%  100%  
+	    Новый файл 		      90	ui-bg_highlight-soft_100_eeeeee_1x100.png  0%  100%  
+	    Новый файл 		     129	ui-bg_highlight-soft_75_ffe45c_1x100.png  0%  100%  
+	    Новый файл 		    4369	ui-icons_222222_256x240.png  0%  100%  
+	    Новый файл 		    4369	ui-icons_228ef1_256x240.png  0%  100%  
+	    Новый файл 		    4369	ui-icons_ef8c08_256x240.png  0%  100%  
+	    Новый файл 		    4369	ui-icons_ffd27a_256x240.png  0%  100%  
+	    Новый файл 		    4369	ui-icons_ffffff_256x240.png  0%  100%  
+
+------------------------------------------------------------------------------
+
+               ВсегоСкопировано ПропущеноНесоответствие      СБОЙДополнения
+Каталогов :       204       203         1         0         0         0
+  Файлов :       999       999         0         0         0         0
+    Байт :    6.14 m    6.14 m         0         0         0         0
+   Время :   0:00:01   0:00:00                       0:00:00   0:00:00
+
+
+Скорость :             7621795 Байт/сек.
+Скорость :             436.122 МБ/мин.
+
+Окончание : Sat Sep 03 10:44:03 2016
